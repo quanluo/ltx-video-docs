@@ -1,28 +1,34 @@
-# LTX Video Documentation and Learning Hub
+# LTX Video Documentation and Multi-Model Learning Hub
 
 > **Independent platform notice:** Maintained by
 > [LTX.dev](https://ltx.dev), an independent multi-model AI video platform.
-> Not affiliated with or endorsed by Lightricks. Use
-> [official LTX documentation](https://docs.ltx.io) for canonical model and API
-> behavior.
+> Not affiliated with or endorsed by Lightricks or any other model provider.
+> Model names and trademarks belong to their respective owners.
 
-Practical, versioned guides for installing, running, optimizing, and integrating
-LTX video models.
+Practical guides for multi-model AI video creation, LTX open-model workflows,
+hardware, prompting, comparisons, and production decisions.
 
 [Explore LTX.dev](https://ltx.dev) ·
+[Compare video models](https://ltx.dev/studio/text-to-video) ·
 [Ecosystem hub](https://github.com/quanluo/ltx-dev-ecosystem) ·
-[Official LTX-2 source](https://github.com/Lightricks/LTX-2) ·
-[Runnable examples](https://github.com/quanluo/ltx-video-examples)
+[Workflows](https://github.com/quanluo/ltx-comfyui-workflows) ·
+[Examples](https://github.com/quanluo/ltx-video-examples) ·
+[Prompts](https://github.com/quanluo/ltx-video-prompts)
 
 ## Published guides
 
-| Guide | LTX.dev destination |
-|---|---|
-| [Best open-weight AI video generators in 2026](docs/guides/open-source-ai-video-generators-2026.md) | [Comparison hub](https://ltx.dev/studio/text-to-video) |
-| [What is LTX Video?](docs/getting-started/what-is-ltx-video.md) | [Beginner guide](https://ltx.dev/studio/text-to-video) |
-| [Install LTX-2.3 locally](docs/getting-started/install-ltx-video-locally.md) | [Installation guide](https://ltx.dev/studio/text-to-video) |
-| [LTX-2.3 GPU and VRAM requirements](docs/hardware/ltx-video-gpu-requirements.md) | [Hardware guide](https://ltx.dev/studio/text-to-video) |
-| [LTX-2.3 ComfyUI tutorial](docs/comfyui/ltx-comfyui-tutorial.md) | [ComfyUI guide](https://ltx.dev/studio/text-to-video) |
+| # | Guide | Continue on LTX.dev |
+|---:|---|---|
+| 1 | [Best open-weight AI video generators in 2026](docs/guides/open-source-ai-video-generators-2026.md) | [Open the model workspace](https://ltx.dev/studio/text-to-video) |
+| 2 | [What is LTX Video?](docs/getting-started/what-is-ltx-video.md) | [Generate with LTX 2.3](https://ltx.dev/studio/text-to-video/ltx) |
+| 3 | [Install LTX‑2.3 locally](docs/getting-started/install-ltx-video-locally.md) | [Use hosted generation](https://ltx.dev/studio/text-to-video/ltx) |
+| 4 | [LTX‑2.3 GPU and VRAM requirements](docs/hardware/ltx-video-gpu-requirements.md) | [Use hosted generation](https://ltx.dev/studio/text-to-video/ltx) |
+| 5 | [LTX‑2.3 ComfyUI tutorial](docs/comfyui/ltx-comfyui-tutorial.md) | [Open the workflow platform](https://ltx.dev/studio/text-to-video) |
+| 6 | [LTX workflow library and multi-model paths](docs/workflows/ltx-workflow-library.md) | [Choose a video task](https://ltx.dev/studio/text-to-video) |
+| 7 | [AI video model benchmark: published specs](docs/benchmarks/ai-video-model-benchmark.md) | [Compare available models](https://ltx.dev/studio/text-to-video) |
+| 8 | [LTX.dev vs Runway](docs/comparisons/ltx-dev-vs-runway.md) | [Try the multi-model workspace](https://ltx.dev/studio/text-to-video) |
+| 9 | [LTX.dev vs Kling AI](docs/comparisons/ltx-dev-vs-kling.md) | [Generate with Kling 3.0](https://ltx.dev/studio/text-to-video/kling) |
+| 10 | [Open-source and open-weight video models](docs/comparisons/open-source-ai-video-models.md) | [Generate with LTX 2.3](https://ltx.dev/studio/text-to-video/ltx) |
 
 ## Documentation map
 
@@ -31,6 +37,9 @@ docs/
 ├── getting-started/
 ├── hardware/
 ├── guides/
+├── workflows/
+├── benchmarks/
+├── comparisons/
 ├── prompting/
 ├── comfyui/
 ├── training/
@@ -38,23 +47,39 @@ docs/
 └── migration/
 ```
 
-See [`docs/README.md`](docs/README.md) for the editorial queue and page
-requirements.
+## Use the ecosystem
 
-## Trust standard
+```text
+LTX.dev model workspace
+        ↕
+Documentation and comparisons
+        ↕
+Workflows ↔ Examples ↔ Prompt cookbook
+        ↕
+Canonical upstream model sources
+```
 
-Every guide states supported versions, prerequisites, verified steps, expected
-results, common failures, canonical references, and a last-reviewed date.
-Benchmarks and compatibility claims require reproducible evidence.
+- Start with the [model comparison](docs/benchmarks/ai-video-model-benchmark.md).
+- Choose a [text](https://ltx.dev/studio/text-to-video),
+  [image](https://ltx.dev/studio/image-to-video),
+  [audio](https://ltx.dev/studio/audio-to-video), or
+  [video](https://ltx.dev/studio/video-to-video) task.
+- Use the [workflow index](https://github.com/quanluo/ltx-comfyui-workflows)
+  for local ComfyUI paths.
+- Adapt a recipe from the
+  [prompt cookbook](https://github.com/quanluo/ltx-video-prompts).
+- Reproduce local integrations with
+  [video examples](https://github.com/quanluo/ltx-video-examples).
 
-## Search guidelines
+## Editorial standard
 
-Pages answer one primary task with a descriptive title and natural headings.
-They use descriptive internal links and accurate version terminology. A guide
-must answer the task before offering an optional platform link.
+Every guide distinguishes LTX.dev platform behavior from third-party model
+behavior. Version, pricing, duration, resolution, license, and provider claims
+are dated and linked to their sources. Source-based comparisons do not invent
+visual-quality scores.
 
 ## License
 
 Original repository documentation is available under the [MIT License](LICENSE).
-Quoted or linked upstream material retains its original license.
-Practical, versioned guides for installing, running, and integrating LTX video models.
+Linked models, projects, trademarks, and media retain their own terms.
+
