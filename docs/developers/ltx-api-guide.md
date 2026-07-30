@@ -8,8 +8,8 @@ reviewed: "2026-07-30"
 
 # LTX API Guide
 
-> **Independent guide:** LTX.dev is an independent multi-model platform.
-> LTX API and LTX-2.3 are provided by Lightricks.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 The public LTX API documentation describes text-to-video, image-to-video and
 audio-to-video generation with synchronized audio, plus Retake and Extend
@@ -80,4 +80,3 @@ directly when building a separate application that needs programmatic control.
 - [LTX API documentation](https://docs.ltx.io/)
 - [LTX API pricing](https://docs.ltx.io/pricing)
 - [LTX.dev LTX model workspace](https://ltx.dev/studio/text-to-video/ltx)
-

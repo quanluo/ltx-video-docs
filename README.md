@@ -1,9 +1,7 @@
 # LTX Video Documentation and Multi-Model Learning Hub
 
-> **Independent platform notice:** Maintained by
-> [LTX.dev](https://ltx.dev), an independent multi-model AI video platform.
-> Not affiliated with or endorsed by Lightricks or any other model provider.
-> Model names and trademarks belong to their respective owners.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 Practical guides for multi-model AI video creation, LTX open-model workflows,
 hardware, prompting, comparisons, and production decisions.

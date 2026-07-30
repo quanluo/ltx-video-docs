@@ -19,10 +19,8 @@ recommended_length: "2,200–3,000 words plus downloadable assets"
 
 # LTX Workflows: ComfyUI Templates and Multi-Model AI Video Paths
 
-> **Independent platform notice:** [LTX.dev](https://ltx.dev) is an independent
-> multi-model AI video platform. It is not affiliated with or endorsed by
-> Lightricks. References to LTX‑2.3, its model code, and ComfyUI integration
-> point to their respective official upstream sources.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 LTX workflows turn a repeatable generation process into a file you can inspect, modify, and share. This library organizes practical LTX‑2.3 workflows by task, from a first text-to-video test to multi-stage generation, keyframe control, audio-led video, and selective retakes.
 

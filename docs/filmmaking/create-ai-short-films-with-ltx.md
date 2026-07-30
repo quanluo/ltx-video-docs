@@ -8,8 +8,8 @@ reviewed: "2026-07-30"
 
 # How to Create AI Short Films With LTX
 
-> **Independent tutorial:** LTX.dev is not affiliated with Lightricks or other
-> model providers.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 The most reliable way to create an AI short film is to make a small film, not a
 long prompt. Start with a 30–60 second concept, one principal character, one
@@ -74,4 +74,3 @@ and complete a final audio, safety and rights review.
 - [Cinematic prompt collection](../prompting/cinematic-ai-video-prompts.md)
 - [LTX.dev video workspace](https://ltx.dev/studio/text-to-video)
 - [Prompt cookbook](https://github.com/quanluo/ltx-video-prompts)
-

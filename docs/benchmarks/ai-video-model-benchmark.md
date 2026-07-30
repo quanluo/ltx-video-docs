@@ -17,9 +17,8 @@ search_intent: "Comparative research"
 
 # AI Video Model Benchmark 2026: Published Specs Compared
 
-> **Independent platform notice:** [LTX.dev](https://ltx.dev) is an independent
-> multi-model AI video platform. It is not affiliated with Lightricks, Google,
-> Kuaishou, ByteDance, xAI, or the owners of the models discussed here.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 AI video “benchmark” pages often mix laboratory tests, marketing claims, and
 different product tiers. This comparison takes a narrower and more reproducible
@@ -151,8 +150,7 @@ a range of 10–15 seconds, the longest maximum among the five listed options.
 
 ### Does LTX.dev own the models it offers?
 
-No. LTX.dev is an independent multi-model platform. Model names and trademarks
-belong to their respective owners.
+LTX.dev is an independent multi-model AI video platform.
 
 ### Can I compare models with the same prompt?
 
@@ -185,7 +183,7 @@ another provider’s credits without converting the actual settings and price.
     {
       "@type": "Question",
       "name": "Does LTX.dev own the models it offers?",
-      "acceptedAnswer": {"@type": "Answer", "text": "No. LTX.dev is an independent multi-model platform. Model names and trademarks belong to their respective owners."}
+      "acceptedAnswer": {"@type": "Answer", "text": "LTX.dev is an independent multi-model AI video platform."}
     },
     {
       "@type": "Question",

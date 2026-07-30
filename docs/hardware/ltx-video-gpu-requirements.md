@@ -20,9 +20,8 @@ suggested_schema:
 
 # LTX-2.3 GPU Requirements: VRAM and Hardware Guide
 
-> **Independent resource:** This guide is published by
-> [LTX.dev](https://ltx.dev), an independent multi-model AI video platform. It
-> is not affiliated with or endorsed by Lightricks.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 LTX-2.3 is a 22B-parameter joint audio-video model. Running it locally requires more than checking a single “minimum VRAM” number: checkpoint precision, text encoder, pipeline stages, resolution, duration, upscaling, offloading, and training all change memory use.
 

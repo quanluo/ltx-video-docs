@@ -8,8 +8,8 @@ reviewed: "2026-07-30"
 
 # Build an AI Video Generator App With the LTX API
 
-> **Independent guide:** This integration guide is published by LTX.dev and
-> uses Lightricks' public LTX API documentation as a third-party source.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 A dependable AI video app needs more than a prompt box. It needs secure input
 handling, asynchronous jobs, cost controls, result storage and clear failure
@@ -89,4 +89,3 @@ endpoint. Live tests should be narrow, explicit and separately budgeted.
 
 - [LTX API documentation](https://docs.ltx.io/)
 - [LTX.dev](https://ltx.dev)
-

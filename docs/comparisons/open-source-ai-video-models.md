@@ -19,10 +19,8 @@ recommended_length: "3,000–4,000 words"
 
 # Open-Source and Open-Weight AI Video Models Compared in 2026
 
-> **Independent platform notice:** [LTX.dev](https://ltx.dev) is an independent
-> multi-model AI video platform. It is not affiliated with Lightricks, Alibaba,
-> Tencent, Zhipu AI, or the owners of the models discussed here. Model names and
-> trademarks belong to their respective owners.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 Open-weight AI video models now cover text-to-video, image-to-video, character animation, video transformation, and—in LTX‑2.3’s case—joint synchronized audio-video generation. The best choice depends on the exact checkpoint, hardware, license, workflow tool, and production task.
 

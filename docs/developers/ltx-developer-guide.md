@@ -8,9 +8,8 @@ reviewed: "2026-07-30"
 
 # LTX Model Developer Guide for LTX.dev Users
 
-> **Independent guide:** LTX.dev is a multi-model AI video platform and is not
-> affiliated with Lightricks. Official model and API links lead to the relevant
-> third-party provider.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 Choose a path based on the result you need:
 
@@ -81,4 +80,3 @@ links to canonical provider documentation for model claims.
 - [LTX-2 official repository](https://github.com/Lightricks/LTX-2)
 - [LTX-2.3 model repository](https://huggingface.co/Lightricks/LTX-2.3)
 - [Official ComfyUI integration](https://github.com/Lightricks/ComfyUI-LTXVideo)
-
