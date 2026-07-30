@@ -207,7 +207,7 @@ another provider’s credits without converting the actual settings and price.
 - [LTX workflows](https://github.com/quanluo/ltx-comfyui-workflows)
 - [LTX video examples](https://github.com/quanluo/ltx-video-examples)
 - [Prompt cookbook](https://github.com/quanluo/ltx-video-prompts)
-- [Open-weight model comparison](comparisons/open-source-ai-video-models.md)
+- [Open-weight model comparison](../comparisons/open-source-ai-video-models.md)
 - [LTX.dev pricing](https://ltx.dev/pricing)
 
 ## Promotion points
