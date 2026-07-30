@@ -199,7 +199,7 @@ The workflow may depend on missing custom nodes or a newer package version. Reco
 ## Download and contribute
 
 - **Primary CTA:** [Download official LTX‑2.3 workflows](https://github.com/Lightricks/ComfyUI-LTXVideo/tree/master/example_workflows/2.3)
-- **Secondary CTA:** [Read the LTX ComfyUI tutorial](/ltx-comfyui-tutorial)
+- **Secondary CTA:** [Read the LTX ComfyUI tutorial](../comfyui/ltx-comfyui-tutorial.md)
 - **Contributor CTA:** Submit a tested workflow with preview, version, hardware, dependencies, seed, and license.
 
 ## Continue in LTX.dev
@@ -289,12 +289,12 @@ Not automatically. Nodes, checkpoints, upscalers, and LoRAs may be version-speci
 
 | Anchor text | Target | Placement |
 |---|---|---|
-| LTX ComfyUI tutorial | `/ltx-comfyui-tutorial` | Quick start and troubleshooting |
-| install LTX locally | `/install-ltx-video` | Installation requirements |
-| LTX GPU requirements | `/ltx-gpu-requirements` | VRAM section |
-| LTX video prompts | `/ltx-video-prompts` | Text-to-video workflow |
-| LTX developer guide | `/developer-guide` | Contribution section |
-| open-source AI video models | `/open-source-ai-video-models` | Conclusion |
+| LTX ComfyUI tutorial | [`../comfyui/ltx-comfyui-tutorial.md`](../comfyui/ltx-comfyui-tutorial.md) | Quick start and troubleshooting |
+| install LTX locally | [`../getting-started/install-ltx-video-locally.md`](../getting-started/install-ltx-video-locally.md) | Installation requirements |
+| LTX GPU requirements | [`../hardware/ltx-video-gpu-requirements.md`](../hardware/ltx-video-gpu-requirements.md) | VRAM section |
+| LTX video prompts | [Prompt cookbook](https://github.com/quanluo/ltx-video-prompts) | Text-to-video workflow |
+| LTX ecosystem hub | [Ecosystem](https://github.com/quanluo/ltx-dev-ecosystem) | Contribution section |
+| open-source AI video models | [`../comparisons/open-source-ai-video-models.md`](../comparisons/open-source-ai-video-models.md) | Conclusion |
 
 ## Image and video requirements
 
