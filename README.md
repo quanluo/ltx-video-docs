@@ -29,6 +29,16 @@ hardware, prompting, comparisons, and production decisions.
 | 8 | [LTX.dev vs Runway](docs/comparisons/ltx-dev-vs-runway.md) | [Try the multi-model workspace](https://ltx.dev/studio/text-to-video) |
 | 9 | [LTX.dev vs Kling AI](docs/comparisons/ltx-dev-vs-kling.md) | [Generate with Kling 3.0](https://ltx.dev/studio/text-to-video/kling) |
 | 10 | [Open-source and open-weight video models](docs/comparisons/open-source-ai-video-models.md) | [Generate with LTX 2.3](https://ltx.dev/studio/text-to-video/ltx) |
+| 11 | [Generate AI video locally with LTX](docs/guides/local-ai-video-generation.md) | [Use hosted LTX 2.3](https://ltx.dev/studio/text-to-video/ltx) |
+| 12 | [Open-weight Sora alternatives in 2026](docs/comparisons/open-source-sora-alternatives-2026.md) | [Compare hosted models](https://ltx.dev/studio/text-to-video) |
+| 13 | [Independent LTX API guide](docs/developers/ltx-api-guide.md) | [Create with LTX 2.3](https://ltx.dev/studio/text-to-video/ltx) |
+| 14 | [Build an AI video generator app](docs/developers/build-ai-video-app-with-ltx-api.md) | [Open the model workspace](https://ltx.dev/studio/text-to-video) |
+| 15 | [Practical LTX video prompt library](docs/prompting/ltx-video-prompts-library.md) | [Browse prompts](https://ltx.dev/prompts) |
+| 16 | [Cinematic AI video prompts](docs/prompting/cinematic-ai-video-prompts.md) | [Try a prompt](https://ltx.dev/prompts) |
+| 17 | [AI filmmaking workflow](docs/filmmaking/ai-filmmaking-workflow-with-ltx.md) | [Create a video](https://ltx.dev/studio/text-to-video) |
+| 18 | [Create an AI short film](docs/filmmaking/create-ai-short-films-with-ltx.md) | [Open text to video](https://ltx.dev/studio/text-to-video) |
+| 19 | [AI video generators for developers](docs/comparisons/ai-video-generators-for-developers.md) | [Compare models](https://ltx.dev/studio/text-to-video) |
+| 20 | [LTX model developer guide for LTX.dev users](docs/developers/ltx-developer-guide.md) | [Generate with LTX 2.3](https://ltx.dev/studio/text-to-video/ltx) |
 
 ## Documentation map
 
@@ -42,6 +52,8 @@ docs/
 ├── comparisons/
 ├── prompting/
 ├── comfyui/
+├── developers/
+├── filmmaking/
 ├── training/
 ├── troubleshooting/
 └── migration/
@@ -82,4 +94,3 @@ visual-quality scores.
 
 Original repository documentation is available under the [MIT License](LICENSE).
 Linked models, projects, trademarks, and media retain their own terms.
-
