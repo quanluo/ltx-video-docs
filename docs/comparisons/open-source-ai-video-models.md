@@ -248,12 +248,12 @@ Use the model owner’s official GitHub organization and verified Hugging Face r
 
 | Anchor | Target |
 |---|---|
-| AI video benchmark | `/ai-video-model-benchmark` |
-| LTX workflows | `/ltx-workflows` |
-| open-source AI video generator | `/open-source-ai-video-generator` |
-| install LTX locally | `/install-ltx-video` |
-| LTX GPU requirements | `/ltx-gpu-requirements` |
-| LTX developer guide | `/developer-guide` |
+| AI video benchmark | [`../benchmarks/ai-video-model-benchmark.md`](../benchmarks/ai-video-model-benchmark.md) |
+| LTX workflows | [`../workflows/ltx-workflow-library.md`](../workflows/ltx-workflow-library.md) |
+| open-source AI video generator | [`../guides/open-source-ai-video-generators-2026.md`](../guides/open-source-ai-video-generators-2026.md) |
+| install LTX locally | [`../getting-started/install-ltx-video-locally.md`](../getting-started/install-ltx-video-locally.md) |
+| LTX GPU requirements | [`../hardware/ltx-video-gpu-requirements.md`](../hardware/ltx-video-gpu-requirements.md) |
+| LTX.dev workspace | [Text to video](https://ltx.dev/studio/text-to-video) |
 
 GitHub ecosystem:
 
