@@ -2,7 +2,7 @@
 seo_title: "LTX-2.3 GPU Requirements: VRAM and Hardware Guide"
 meta_description: "Understand LTX-2.3 GPU, VRAM, RAM, and storage needs for local inference and training, with a test matrix for 24 GB and 32 GB systems."
 slug: "/ltx-gpu-requirements"
-canonical: "https://ltx.dev/ltx-gpu-requirements"
+canonical: "https://ltx.dev/studio/text-to-video"
 primary_keyword: "LTX GPU requirements"
 secondary_keywords:
   - "LTX VRAM requirements"
@@ -203,9 +203,9 @@ The main checkpoint is roughly 46 GB. Companion models, environments, caches, an
 
 ## Choose Your Next Step
 
-If your system matches a tested configuration, continue to [install LTX-2.3 locally](https://ltx.dev/install-ltx-video). For a visual workflow, open the [LTX ComfyUI tutorial](https://ltx.dev/ltx-comfyui-tutorial). If local requirements are too high, use a hosted generation route.
+If your system matches a tested configuration, continue to [install LTX-2.3 locally](https://ltx.dev/studio/text-to-video). For a visual workflow, open the [LTX ComfyUI tutorial](https://ltx.dev/studio/text-to-video). If local requirements are too high, use a hosted generation route.
 
-**CTA:** [Check the local installation steps](https://ltx.dev/install-ltx-video).
+**CTA:** [Check the local installation steps](https://ltx.dev/studio/text-to-video).
 
 ## FAQPage JSON-LD
 

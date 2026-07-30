@@ -2,7 +2,7 @@
 seo_title: "How to Install LTX-2.3 Locally: Complete Setup Guide"
 meta_description: "Install LTX-2.3 locally with the official Python repository. Follow the environment, model download, first-run, validation, and troubleshooting steps."
 slug: "/install-ltx-video"
-canonical: "https://ltx.dev/install-ltx-video"
+canonical: "https://ltx.dev/studio/text-to-video"
 primary_keyword: "install LTX Video"
 secondary_keywords:
   - "LTX installation guide"
@@ -44,7 +44,7 @@ You also need:
 - Git and Git LFS or Hugging Face download tooling;
 - acceptance of the licenses for LTX-2.3 and Gemma 3.
 
-See [LTX GPU requirements](https://ltx.dev/ltx-gpu-requirements) before downloading the full checkpoint.
+See [LTX GPU requirements](https://ltx.dev/studio/text-to-video) before downloading the full checkpoint.
 
 > The requirements above can change. Pin the repository commit used for production and check its README before installation.
 
@@ -207,7 +207,7 @@ First determine whether the run is using the expected GPU and precision. Record 
 
 If your goal is interactive creation rather than Python integration, ComfyUI may be faster to validate. It provides visual workflows and can help download the assets required by a template.
 
-Continue with the [LTX ComfyUI complete tutorial](https://ltx.dev/ltx-comfyui-tutorial).
+Continue with the [LTX ComfyUI complete tutorial](https://ltx.dev/studio/text-to-video).
 
 ## Frequently Asked Questions
 
@@ -237,7 +237,7 @@ Do not assume the older LTX-Video MPS instructions apply to LTX-2.3. The current
 
 Once the first validation job succeeds, save the environment details and move the workflow into version control.
 
-**CTA:** [Download an approved LTX workflow](https://ltx.dev/ltx-workflows) or [open the LTX ComfyUI tutorial](https://ltx.dev/ltx-comfyui-tutorial).
+**CTA:** [Download an approved LTX workflow](https://ltx.dev/ltx-workflows) or [open the LTX ComfyUI tutorial](https://ltx.dev/studio/text-to-video).
 
 ## FAQPage JSON-LD
 

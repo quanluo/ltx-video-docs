@@ -2,7 +2,7 @@
 seo_title: "LTX-2.3 ComfyUI Tutorial: Text and Image to Video"
 meta_description: "Set up LTX-2.3 in ComfyUI, load official text-to-video and image-to-video workflows, install models, write prompts, generate, and troubleshoot."
 slug: "/ltx-comfyui-tutorial"
-canonical: "https://ltx.dev/ltx-comfyui-tutorial"
+canonical: "https://ltx.dev/studio/text-to-video"
 primary_keyword: "LTX ComfyUI tutorial"
 secondary_keywords:
   - "LTX ComfyUI workflow"
@@ -36,7 +36,7 @@ LTX-2.3 can generate synchronized audio and video. Official workflows cover text
 - the current LTX workflow template;
 - permission to use the model and input media.
 
-Read the [LTX GPU requirements guide](https://ltx.dev/ltx-gpu-requirements) before downloading large files.
+Read the [LTX GPU requirements guide](https://ltx.dev/studio/text-to-video) before downloading large files.
 
 ## Native Nodes or the LTX Custom Node Package?
 
@@ -197,7 +197,7 @@ Check the model version, exact filename, and folder. Refresh the model list. Do 
 
 ### CUDA out-of-memory error
 
-Close other GPU tasks, use an official lower-memory path, reduce duration or resolution, and enable documented offloading. See the [GPU guide](https://ltx.dev/ltx-gpu-requirements).
+Close other GPU tasks, use an official lower-memory path, reduce duration or resolution, and enable documented offloading. See the [GPU guide](https://ltx.dev/studio/text-to-video).
 
 ### The result has no audio
 
@@ -248,7 +248,7 @@ Your ComfyUI build may be outdated, the workflow may require the official LTX cu
 
 Begin with a default text-to-video template, make one successful generation, and save a reproducible copy before customizing the graph.
 
-**CTA:** [Browse LTX workflows](https://ltx.dev/ltx-workflows) or [learn what LTX-2.3 can do](https://ltx.dev/ltx-video-guide).
+**CTA:** [Browse LTX workflows](https://ltx.dev/ltx-workflows) or [learn what LTX-2.3 can do](https://ltx.dev/studio/text-to-video).
 
 ## FAQPage JSON-LD
 

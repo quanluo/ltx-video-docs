@@ -2,7 +2,7 @@
 seo_title: "What Is LTX Video? LTX-2.3 Beginner's Guide"
 meta_description: "Learn what LTX Video is, how LTX-2.3 generates synchronized video and audio, what it supports, and how to start with the API, Python, or ComfyUI."
 slug: "/ltx-video-guide"
-canonical: "https://ltx.dev/ltx-video-guide"
+canonical: "https://ltx.dev/studio/text-to-video"
 primary_keyword: "LTX Video"
 secondary_keywords:
   - "LTX AI video"
@@ -87,13 +87,13 @@ Use the API when you need:
 
 The `Lightricks/LTX-2` repository contains the current inference and training packages. This route offers code-level control but requires environment setup, large model downloads, and suitable hardware.
 
-Follow the [local LTX installation guide](https://ltx.dev/install-ltx-video) and review [LTX GPU requirements](https://ltx.dev/ltx-gpu-requirements) before downloading checkpoints.
+Follow the [local LTX installation guide](https://ltx.dev/studio/text-to-video) and review [LTX GPU requirements](https://ltx.dev/studio/text-to-video) before downloading checkpoints.
 
 ### Use ComfyUI
 
 ComfyUI represents generation as a graph of connected nodes. It is useful when creators want to see, edit, save, and share a workflow without writing every pipeline step in Python.
 
-Use the [LTX ComfyUI tutorial](https://ltx.dev/ltx-comfyui-tutorial) to start with an official template.
+Use the [LTX ComfyUI tutorial](https://ltx.dev/studio/text-to-video) to start with an official template.
 
 ## What Is LTX Good For?
 
@@ -166,7 +166,7 @@ Yes. LTX has ComfyUI support through current nodes and official workflows. Keep 
 
 ## Start Creating with LTX
 
-If you want the fastest test, begin with a hosted generation. If you want a reusable visual pipeline, continue to the [LTX ComfyUI tutorial](https://ltx.dev/ltx-comfyui-tutorial). Developers who need code-level control can follow the [local installation guide](https://ltx.dev/install-ltx-video).
+If you want the fastest test, begin with a hosted generation. If you want a reusable visual pipeline, continue to the [LTX ComfyUI tutorial](https://ltx.dev/studio/text-to-video). Developers who need code-level control can follow the [local installation guide](https://ltx.dev/studio/text-to-video).
 
 **CTA:** [Create your first LTX video](https://ltx.dev/text-to-video).
 

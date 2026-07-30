@@ -2,7 +2,7 @@
 seo_title: "Best Open-Weight AI Video Generators in 2026"
 meta_description: "Compare leading open-weight AI video generators, including LTX-2.3, Wan, HunyuanVideo, and CogVideoX, by control, hardware, license, and workflow."
 slug: "/open-source-ai-video-generator"
-canonical: "https://ltx.dev/open-source-ai-video-generator"
+canonical: "https://ltx.dev/studio/text-to-video"
 primary_keyword: "open source AI video generator"
 secondary_keywords:
   - "best open source AI video generator"
@@ -89,7 +89,7 @@ Choose LTX when:
 - your team needs a Python pipeline or hosted API path;
 - LoRA and control workflows are part of the roadmap.
 
-Before local installation, review the [LTX GPU requirements guide](https://ltx.dev/ltx-gpu-requirements) and the [step-by-step setup guide](https://ltx.dev/install-ltx-video).
+Before local installation, review the [LTX GPU requirements guide](https://ltx.dev/studio/text-to-video) and the [step-by-step setup guide](https://ltx.dev/studio/text-to-video).
 
 ## 2. Wan 2.2
 
@@ -158,8 +158,8 @@ Many teams use both: local models for control and repeatability, hosted services
 The fastest routes are:
 
 1. Use a hosted LTX playground or API for an initial capability test.
-2. Use the [LTX ComfyUI tutorial](https://ltx.dev/ltx-comfyui-tutorial) for a visual local workflow.
-3. Use the [local installation guide](https://ltx.dev/install-ltx-video) for the official Python codebase.
+2. Use the [LTX ComfyUI tutorial](https://ltx.dev/studio/text-to-video) for a visual local workflow.
+3. Use the [local installation guide](https://ltx.dev/studio/text-to-video) for the official Python codebase.
 
 Begin with a small validation set before investing in a full pipeline.
 
@@ -189,7 +189,7 @@ LTX, Wan, HunyuanVideo, and CogVideoX are among the downloadable options to eval
 
 The best model is the one that passes your prompts, hardware, workflow, and license review. LTX-2.3 stands out for combining downloadable weights, a developer stack, ComfyUI workflows, and synchronized audio-video generation.
 
-**CTA:** [Try LTX with a test prompt](https://ltx.dev/text-to-video) or [set up LTX-2.3 locally](https://ltx.dev/install-ltx-video).
+**CTA:** [Try LTX with a test prompt](https://ltx.dev/text-to-video) or [set up LTX-2.3 locally](https://ltx.dev/studio/text-to-video).
 
 ## FAQPage JSON-LD
 

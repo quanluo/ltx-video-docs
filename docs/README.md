@@ -2,13 +2,13 @@
 
 ## Published SEO guides
 
-| Guide | GitHub source | Canonical destination |
+| Guide | GitHub source | LTX.dev destination |
 |---|---|---|
-| Open-weight AI video generators | [`guides/open-source-ai-video-generators-2026.md`](guides/open-source-ai-video-generators-2026.md) | [LTX.dev comparison hub](https://ltx.dev/open-source-ai-video-generator) |
-| What is LTX Video? | [`getting-started/what-is-ltx-video.md`](getting-started/what-is-ltx-video.md) | [LTX.dev beginner guide](https://ltx.dev/ltx-video-guide) |
-| Install LTX-2.3 locally | [`getting-started/install-ltx-video-locally.md`](getting-started/install-ltx-video-locally.md) | [LTX.dev installation guide](https://ltx.dev/install-ltx-video) |
-| GPU and VRAM requirements | [`hardware/ltx-video-gpu-requirements.md`](hardware/ltx-video-gpu-requirements.md) | [LTX.dev hardware guide](https://ltx.dev/ltx-gpu-requirements) |
-| ComfyUI tutorial | [`comfyui/ltx-comfyui-tutorial.md`](comfyui/ltx-comfyui-tutorial.md) | [LTX.dev ComfyUI guide](https://ltx.dev/ltx-comfyui-tutorial) |
+| Open-weight AI video generators | [`guides/open-source-ai-video-generators-2026.md`](guides/open-source-ai-video-generators-2026.md) | [LTX.dev creation workspace](https://ltx.dev/studio/text-to-video) |
+| What is LTX Video? | [`getting-started/what-is-ltx-video.md`](getting-started/what-is-ltx-video.md) | [LTX.dev creation workspace](https://ltx.dev/studio/text-to-video) |
+| Install LTX-2.3 locally | [`getting-started/install-ltx-video-locally.md`](getting-started/install-ltx-video-locally.md) | [LTX.dev creation workspace](https://ltx.dev/studio/text-to-video) |
+| GPU and VRAM requirements | [`hardware/ltx-video-gpu-requirements.md`](hardware/ltx-video-gpu-requirements.md) | [LTX.dev creation workspace](https://ltx.dev/studio/text-to-video) |
+| ComfyUI tutorial | [`comfyui/ltx-comfyui-tutorial.md`](comfyui/ltx-comfyui-tutorial.md) | [LTX.dev creation workspace](https://ltx.dev/studio/text-to-video) |
 
 Continue through the
 [LTX.dev ecosystem hub](https://github.com/quanluo/ltx-dev-ecosystem),
