@@ -17,9 +17,8 @@ search_intent: "Commercial investigation"
 
 # LTX.dev vs Runway: Which AI Video Platform Fits Your Workflow?
 
-> **Independent platform notice:** LTX.dev is an independent multi-model AI
-> video platform and is not affiliated with Lightricks or Runway. “LTX 2.3”
-> refers to a third-party model available through the platform.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 LTX.dev and Runway both give creators a web-based path to AI video generation,
 but their centers of gravity differ. LTX.dev emphasizes access to multiple
@@ -162,10 +161,9 @@ the brand name.
 
 ## Frequently asked questions
 
-### Is LTX.dev affiliated with Lightricks?
+### What is LTX.dev?
 
-No. LTX.dev is an independent multi-model platform. It offers access to LTX 2.3
-alongside other models but is not affiliated with the model’s developer.
+LTX.dev is an independent multi-model AI video platform.
 
 ### Is LTX.dev a Runway alternative?
 
@@ -196,8 +194,8 @@ credits are separate.
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is LTX.dev affiliated with Lightricks?",
-      "acceptedAnswer": {"@type": "Answer", "text": "No. LTX.dev is an independent multi-model platform. It offers access to LTX 2.3 alongside other models but is not affiliated with the model's developer."}
+      "name": "What is LTX.dev?",
+      "acceptedAnswer": {"@type": "Answer", "text": "LTX.dev is an independent multi-model AI video platform."}
     },
     {
       "@type": "Question",

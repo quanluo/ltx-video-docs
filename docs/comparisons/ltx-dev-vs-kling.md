@@ -17,9 +17,8 @@ search_intent: "Commercial investigation"
 
 # LTX.dev vs Kling AI: Platform or Single-Model Ecosystem?
 
-> **Independent platform notice:** LTX.dev is an independent multi-model AI
-> video platform. It is not affiliated with Kuaishou, Kling AI, Lightricks, or
-> the owners of other models offered through the platform.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 LTX.dev and Kling AI are not identical product categories. Kling AI is
 Kuaishou’s model and creation ecosystem. LTX.dev is a multi-model workspace that

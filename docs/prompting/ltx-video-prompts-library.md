@@ -8,8 +8,8 @@ reviewed: "2026-07-30"
 
 # Practical LTX Video Prompt Library
 
-> **Independent library:** LTX.dev supports third-party video models and is not
-> affiliated with Lightricks.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 LTX prompts are most useful as clear, chronological shot descriptions. Begin
 with the main action, then describe movement, appearance, environment, camera,
@@ -66,4 +66,3 @@ Describe the desired motion rather than repeating the source image:
 
 - [LTX-2 prompting guidance](https://github.com/Lightricks/LTX-2#-prompting-for-ltx-2)
 - [LTX.dev prompt gallery](https://ltx.dev/prompts)
-

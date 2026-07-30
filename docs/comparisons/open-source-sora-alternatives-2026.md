@@ -8,9 +8,11 @@ reviewed: "2026-07-30"
 
 # Open-Weight Sora Alternatives in 2026
 
-> **Independent comparison:** LTX.dev is not affiliated with any model provider
-> listed here. Specifications are compiled from public provider sources rather
-> than an LTX.dev visual-quality test.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
+
+Specifications are compiled from public sources rather than an LTX.dev
+visual-quality test.
 
 Developers searching for an open-source Sora alternative often need something
 more precise: downloadable weights, local inference, programmable pipelines,
@@ -81,4 +83,3 @@ control, follow each provider’s repository.
 - [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
 - [CogVideo](https://github.com/zai-org/CogVideo)
 - [OpenAI Sora 2 status](https://openai.com/index/sora-2/)
-

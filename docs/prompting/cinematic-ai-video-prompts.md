@@ -8,8 +8,8 @@ reviewed: "2026-07-30"
 
 # Cinematic AI Video Prompts for LTX-2.3
 
-> **Independent collection:** LTX.dev is not affiliated with Lightricks. Model
-> names identify the third-party model targeted by each recipe.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 Useful cinematic prompts describe filmmaking intent rather than stacking
 quality adjectives. Organize them by camera, lighting, action and sound.
@@ -68,4 +68,3 @@ likenesses or media without redistribution rights.
 - [Camera movement recipes](https://github.com/quanluo/ltx-video-prompts/blob/main/prompts/camera-movements.md)
 - [Cinematic scenes](https://github.com/quanluo/ltx-video-prompts/blob/main/prompts/cinematic-scenes.md)
 - [Try prompts on LTX.dev](https://ltx.dev/prompts)
-

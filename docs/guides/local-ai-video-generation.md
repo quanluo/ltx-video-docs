@@ -8,9 +8,8 @@ reviewed: "2026-07-30"
 
 # How to Generate AI Videos Locally With LTX
 
-> **Independent guide:** [LTX.dev](https://ltx.dev) is an independent
-> multi-model video platform and is not affiliated with Lightricks, the
-> developer of LTX-2.3.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 Local AI video generation provides direct control over checkpoints, pipelines,
 inputs and storage. It also makes you responsible for model access, compatible
@@ -87,4 +86,3 @@ or compare the same prompt across models in the
 - [LTX-2 official repository](https://github.com/Lightricks/LTX-2)
 - [LTX-2.3 model repository](https://huggingface.co/Lightricks/LTX-2.3)
 - [LTX.dev text-to-video workspace](https://ltx.dev/studio/text-to-video)
-

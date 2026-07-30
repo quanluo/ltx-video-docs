@@ -8,8 +8,8 @@ reviewed: "2026-07-30"
 
 # AI Filmmaking Workflow With LTX
 
-> **Independent workflow guide:** LTX.dev is a multi-model video synthesis
-> platform and is not affiliated with Lightricks.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 AI filmmaking is manageable when treated as a sequence of shots rather than one
 giant prompt. The durable workflow remains familiar: brief, script, shot list,
@@ -72,4 +72,3 @@ timing, transitions, color, captions and final audio there.
 - [Create an AI short film](create-ai-short-films-with-ltx.md)
 - [Prompt cookbook](https://github.com/quanluo/ltx-video-prompts)
 - [Generate on LTX.dev](https://ltx.dev/studio/text-to-video)
-

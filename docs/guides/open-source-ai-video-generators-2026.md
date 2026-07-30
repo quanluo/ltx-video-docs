@@ -21,10 +21,8 @@ suggested_schema:
 
 # Best Open-Weight AI Video Generators in 2026
 
-> **Independent resource:** This guide is published by
-> [LTX.dev](https://ltx.dev), an independent multi-model AI video platform. It
-> is not affiliated with or endorsed by Lightricks or the other model
-> developers named below.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 Open-weight AI video models give creators and developers something closed platforms cannot: the option to inspect the implementation, run a model in their own environment, adapt workflows, and build products around the model's capabilities.
 

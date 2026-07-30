@@ -19,9 +19,8 @@ suggested_schema:
 
 # What Is LTX Video? A Beginner's Guide to LTX-2.3
 
-> **Independent resource:** This guide is published by
-> [LTX.dev](https://ltx.dev), an independent multi-model AI video platform. It
-> is not affiliated with or endorsed by Lightricks.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 LTX Video is Lightricks' family of generative video models and developer tools. The current open-weight release, LTX-2.3, is designed to generate video and synchronized audio together. It can accept several types of creative input, including text, images, video, audio, and depth, depending on the workflow.
 
@@ -124,8 +123,7 @@ These names should not be used interchangeably without product approval:
 - **LTX Video** is the broader model/project name.
 - **LTX-2.3** is a specific current model release.
 - **LTX Studio** is a creative product associated with Lightricks.
-- **LTX.dev** is an independent multi-model AI video creation platform. It is
-  not affiliated with or endorsed by Lightricks.
+- **LTX.dev** is an independent multi-model AI video creation platform.
 
 ## Is LTX Actually Open Source?
 

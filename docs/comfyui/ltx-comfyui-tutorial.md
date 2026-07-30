@@ -20,9 +20,8 @@ suggested_schema:
 
 # LTX-2.3 ComfyUI Tutorial: Generate Video and Audio Step by Step
 
-> **Independent resource:** This guide is published by
-> [LTX.dev](https://ltx.dev), an independent multi-model AI video platform. It
-> is not affiliated with or endorsed by Lightricks or ComfyUI.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 ComfyUI is one of the most accessible ways to run an editable LTX-2.3 workflow. It represents generation as a graph of connected nodes, so you can inspect the model, prompt, latent setup, sampler, decoder, audio path, and output.
 

@@ -19,9 +19,8 @@ suggested_schema:
 
 # How to Install LTX-2.3 Locally: Complete Setup Guide
 
-> **Independent resource:** This guide is published by
-> [LTX.dev](https://ltx.dev), an independent multi-model AI video platform. It
-> is not affiliated with or endorsed by Lightricks.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 LTX-2.3 can run locally through Lightricks' official Python repository. A local setup gives developers control over model files, workflows, inputs, and deployment, but it requires large downloads and a compatible GPU environment.
 

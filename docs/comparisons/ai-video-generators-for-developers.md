@@ -8,8 +8,8 @@ reviewed: "2026-07-30"
 
 # AI Video Generators for Developers
 
-> **Independent comparison:** LTX.dev is not affiliated with the providers or
-> open-model projects discussed below.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 The best AI video generator for a developer is the one that fits the product
 architecture, not the one with the most impressive demo reel.
@@ -82,4 +82,3 @@ multi-model evaluation easier.
 - [Build an AI video app](../developers/build-ai-video-app-with-ltx-api.md)
 - [Open-weight Sora alternatives](open-source-sora-alternatives-2026.md)
 - [Compare models on LTX.dev](https://ltx.dev/studio/text-to-video)
-
