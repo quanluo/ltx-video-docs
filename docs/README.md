@@ -1,5 +1,21 @@
 # Documentation Plan
 
+## Published SEO guides
+
+| Guide | GitHub source | Canonical destination |
+|---|---|---|
+| Open-weight AI video generators | [`guides/open-source-ai-video-generators-2026.md`](guides/open-source-ai-video-generators-2026.md) | [LTX.dev comparison hub](https://ltx.dev/open-source-ai-video-generator) |
+| What is LTX Video? | [`getting-started/what-is-ltx-video.md`](getting-started/what-is-ltx-video.md) | [LTX.dev beginner guide](https://ltx.dev/ltx-video-guide) |
+| Install LTX-2.3 locally | [`getting-started/install-ltx-video-locally.md`](getting-started/install-ltx-video-locally.md) | [LTX.dev installation guide](https://ltx.dev/install-ltx-video) |
+| GPU and VRAM requirements | [`hardware/ltx-video-gpu-requirements.md`](hardware/ltx-video-gpu-requirements.md) | [LTX.dev hardware guide](https://ltx.dev/ltx-gpu-requirements) |
+| ComfyUI tutorial | [`comfyui/ltx-comfyui-tutorial.md`](comfyui/ltx-comfyui-tutorial.md) | [LTX.dev ComfyUI guide](https://ltx.dev/ltx-comfyui-tutorial) |
+
+Continue through the
+[LTX.dev ecosystem hub](https://github.com/quanluo/ltx-dev-ecosystem),
+[runnable examples](https://github.com/quanluo/ltx-video-examples),
+[ComfyUI workflows](https://github.com/quanluo/ltx-comfyui-workflows), and
+[prompt cookbook](https://github.com/quanluo/ltx-video-prompts).
+
 ## Initial editorial queue
 
 | Priority | Guide | Primary intent | Status |

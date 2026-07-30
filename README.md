@@ -10,8 +10,19 @@ Practical, versioned guides for installing, running, optimizing, and integrating
 LTX video models.
 
 [Explore LTX.dev](https://ltx.dev) ·
+[Ecosystem hub](https://github.com/quanluo/ltx-dev-ecosystem) ·
 [Official LTX-2 source](https://github.com/Lightricks/LTX-2) ·
 [Runnable examples](https://github.com/quanluo/ltx-video-examples)
+
+## Published guides
+
+| Guide | LTX.dev destination |
+|---|---|
+| [Best open-weight AI video generators in 2026](docs/guides/open-source-ai-video-generators-2026.md) | [Comparison hub](https://ltx.dev/open-source-ai-video-generator) |
+| [What is LTX Video?](docs/getting-started/what-is-ltx-video.md) | [Beginner guide](https://ltx.dev/ltx-video-guide) |
+| [Install LTX-2.3 locally](docs/getting-started/install-ltx-video-locally.md) | [Installation guide](https://ltx.dev/install-ltx-video) |
+| [LTX-2.3 GPU and VRAM requirements](docs/hardware/ltx-video-gpu-requirements.md) | [Hardware guide](https://ltx.dev/ltx-gpu-requirements) |
+| [LTX-2.3 ComfyUI tutorial](docs/comfyui/ltx-comfyui-tutorial.md) | [ComfyUI guide](https://ltx.dev/ltx-comfyui-tutorial) |
 
 ## Documentation map
 
