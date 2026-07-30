@@ -9,6 +9,16 @@
 | Install LTX-2.3 locally | [`getting-started/install-ltx-video-locally.md`](getting-started/install-ltx-video-locally.md) | [LTX.dev creation workspace](https://ltx.dev/studio/text-to-video) |
 | GPU and VRAM requirements | [`hardware/ltx-video-gpu-requirements.md`](hardware/ltx-video-gpu-requirements.md) | [LTX.dev creation workspace](https://ltx.dev/studio/text-to-video) |
 | ComfyUI tutorial | [`comfyui/ltx-comfyui-tutorial.md`](comfyui/ltx-comfyui-tutorial.md) | [LTX.dev creation workspace](https://ltx.dev/studio/text-to-video) |
+| Local AI video generation | [`guides/local-ai-video-generation.md`](guides/local-ai-video-generation.md) | [Hosted LTX 2.3](https://ltx.dev/studio/text-to-video/ltx) |
+| Open-weight Sora alternatives | [`comparisons/open-source-sora-alternatives-2026.md`](comparisons/open-source-sora-alternatives-2026.md) | [Model workspace](https://ltx.dev/studio/text-to-video) |
+| LTX API guide | [`developers/ltx-api-guide.md`](developers/ltx-api-guide.md) | [Hosted LTX 2.3](https://ltx.dev/studio/text-to-video/ltx) |
+| Build an AI video app | [`developers/build-ai-video-app-with-ltx-api.md`](developers/build-ai-video-app-with-ltx-api.md) | [Model workspace](https://ltx.dev/studio/text-to-video) |
+| LTX prompt library | [`prompting/ltx-video-prompts-library.md`](prompting/ltx-video-prompts-library.md) | [LTX.dev prompts](https://ltx.dev/prompts) |
+| Cinematic prompts | [`prompting/cinematic-ai-video-prompts.md`](prompting/cinematic-ai-video-prompts.md) | [LTX.dev prompts](https://ltx.dev/prompts) |
+| AI filmmaking workflow | [`filmmaking/ai-filmmaking-workflow-with-ltx.md`](filmmaking/ai-filmmaking-workflow-with-ltx.md) | [Video workspace](https://ltx.dev/studio/text-to-video) |
+| Create an AI short film | [`filmmaking/create-ai-short-films-with-ltx.md`](filmmaking/create-ai-short-films-with-ltx.md) | [Video workspace](https://ltx.dev/studio/text-to-video) |
+| AI video generators for developers | [`comparisons/ai-video-generators-for-developers.md`](comparisons/ai-video-generators-for-developers.md) | [Compare models](https://ltx.dev/studio/text-to-video) |
+| LTX developer guide | [`developers/ltx-developer-guide.md`](developers/ltx-developer-guide.md) | [Hosted LTX 2.3](https://ltx.dev/studio/text-to-video/ltx) |
 
 Continue through the
 [LTX.dev ecosystem hub](https://github.com/quanluo/ltx-dev-ecosystem),
@@ -47,5 +57,6 @@ Each guide contains:
 Do not convert planned filenames into published claims until the required
 verification is complete.
 
-All eight initial guides were reviewed against official sources but were not
-independently executed by LTX.dev. They intentionally omit benchmark results.
+The technical guides are reviewed against public provider sources but are not
+presented as independently executed LTX.dev environment tests. They
+intentionally omit unsupported benchmark results.
